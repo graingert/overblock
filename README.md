@@ -1,6 +1,6 @@
 overblock
 =========
-
+a locally-run-focused web application like block explorer
 
 ###Lib Requirements
 
